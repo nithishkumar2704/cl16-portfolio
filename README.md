@@ -2,8 +2,7 @@
 
 > **"Il Predestinato"** - A Dark Luxury Digital Experience.
 
-![Project Preview](https://github.com/user-attachments/assets/placeholder) 
-*(Add a screenshot of the Hero section here after pushing!)*
+![Project Preview](public/preview.webp)
 
 ## 🏁 Overview
 This project is a high-fidelity **Personal Portfolio Website** designed for F1 Driver Charles Leclerc.  
