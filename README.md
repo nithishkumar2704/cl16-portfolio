@@ -34,7 +34,7 @@ It moves away from traditional "image-heavy" sports sites and embraces a **Typog
 
 1.  **Clone the repo**
     ```bash
-    git clone https://github.com/yourusername/charles-leclerc-portfolio.git
+    git clone https://github.com/nithishkumar2704/charles-leclerc-portfolio.git
     ```
 2.  **Install dependencies**
     ```bash
